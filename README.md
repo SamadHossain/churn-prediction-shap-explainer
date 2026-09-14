@@ -3,6 +3,8 @@
 **Mohammad Samad Hossain**  
 **PGD in Data Science | United International University (UIU)**
 
+🔗 **[Live Demo](https://samadhossain-churn-prediction-shap-explainer-app-qohs75.streamlit.app/)**
+
 ## 📌 Project Overview
 
 This project develops a machine learning workflow to predict customer churn and understand the factors driving churn decisions.
